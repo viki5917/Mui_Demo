@@ -1,3 +1,11 @@
+### `npx create-react-app react-mui-demo --template typescript`
+
+### `npm i @mui/material @emotion/react @emotion/styled @mui/icons-material`
+
+### `npm i @mui/system @mui/lab`
+
+### `npm i date-fns @date-io/date-fns`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
